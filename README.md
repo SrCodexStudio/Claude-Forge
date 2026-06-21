@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://hits.sh/github.com/SrCodexStudio/claude-forge.svg?style=for-the-badge&label=Visitors&color=6366f1&labelColor=0d1117" alt="Visitors"/>
+</p>
+
+<p align="center">
 <pre align="center">
      ██████╗██╗      █████╗ ██╗   ██╗██████╗ ███████╗
     ██╔════╝██║     ██╔══██╗██║   ██║██╔══██╗██╔════╝
